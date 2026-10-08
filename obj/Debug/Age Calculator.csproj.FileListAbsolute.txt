@@ -1,0 +1,11 @@
+C:\Users\starp\OneDrive\Documents\Coding\Age Calculator\bin\Debug\Age Calculator.exe.config
+C:\Users\starp\OneDrive\Documents\Coding\Age Calculator\bin\Debug\Age Calculator.exe
+C:\Users\starp\OneDrive\Documents\Coding\Age Calculator\bin\Debug\Age Calculator.pdb
+C:\Users\starp\OneDrive\Documents\Coding\Age Calculator\obj\Debug\Age Calculator.csproj.AssemblyReference.cache
+C:\Users\starp\OneDrive\Documents\Coding\Age Calculator\obj\Debug\Age_Calculator.Form1.resources
+C:\Users\starp\OneDrive\Documents\Coding\Age Calculator\obj\Debug\Age_Calculator.Properties.Resources.resources
+C:\Users\starp\OneDrive\Documents\Coding\Age Calculator\obj\Debug\Age Calculator.csproj.GenerateResource.cache
+C:\Users\starp\OneDrive\Documents\Coding\Age Calculator\obj\Debug\Age Calculator.csproj.CoreCompileInputs.cache
+C:\Users\starp\OneDrive\Documents\Coding\Age Calculator\obj\Debug\Age Calculator.exe
+C:\Users\starp\OneDrive\Documents\Coding\Age Calculator\obj\Debug\Age Calculator.pdb
+C:\Users\starp\OneDrive\Documents\Coding\Age Calculator\obj\Debug\Age Calculator.exe.config
